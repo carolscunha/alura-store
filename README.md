@@ -1,7 +1,7 @@
 ## 🛒 Alura Store - Análise de Lojas Virtuais
 
 Este projeto realiza uma análise exploratória dos dados de quatro lojas virtuais fictícias da **Alura Store**, com o objetivo de **avaliar o desempenho de cada uma** e apoiar uma **decisão estratégica de venda** de uma delas.  
-Através de visualizações e estatísticas, buscamos compreender o desempenho de cada loja em relação a faturamento, produtos, avaliações e frete médio.
+Buscamos compreender o desempenho de cada loja em relação a faturamento, produtos, avaliações e frete médio.
 
 ---
 
