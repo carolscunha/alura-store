@@ -10,7 +10,7 @@ Através de visualizações e estatísticas, buscamos compreender o desempenho d
 - Identificar a **loja com pior desempenho**.
 - Avaliar os seguintes indicadores:
   - 📈 Faturamento total  
-  - 📦 Categorias de produtos mais e menos vendidos  
+  - 📦 Categorias de produtos  
   - ⭐ Média das avaliações dos clientes  
   - 🔥 Produtos mais e menos vendidos  
   - 🚚 Frete médio por loja  
